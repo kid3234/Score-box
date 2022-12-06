@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+
+}
+.text{
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+font-family: Verdana;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+margin-bottom: 10px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.in{
+
+display: flex;
+justify-content: space-around;
+width: 117px;
+height: 120px;
+left: 100px;
+top: 125px;
+background-color: black;
+margin-top: 0px;
+font-family: Cursed Timer ULiL;
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 141%;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+.btn{
+    margin-top: 5px;
+    width: 40px;
+    height: 28.77px;
+    left: 199px;
+    top: 280px;
+    font-family: Cursed Timer ULiL;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    background-color:slateblue;
+    /* or 155% */
+    background-color: #4C1D95;
+
+    text-align: center;
+
+    color: #9AABD8;
+
+}
+#btnr{
+     margin-top: 215px;
+    width: 80px;
+    height: 28.77px;
+    left: 199px;
+    top: 280px;
+    font-family: Cursed Timer ULiL;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    background-color:slateblue;
+    /* or 155% */
+    background-color: #4C1D95;
+
+    text-align: center;
+
+    color: #9AABD8;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color:#856aab;
+    width: 600px;
+    height: 250px;
+    margin: 10px auto;
+    padding: 0px 0px;
+    border: 5px solid #EEEEEE;
+    border-radius: 10px;
+    
+    
+}
